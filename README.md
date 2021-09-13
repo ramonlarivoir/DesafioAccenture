@@ -7,9 +7,9 @@
 
 ### Formas para executar os testes:
 - Arquivo "Runner.java"
--- Selecione o arquivo e execute como "JUnit test"
+  - Selecione o arquivo e execute como "JUnit test"
 
 Ou
 
 - Arquivo VehicleQuote.feature
--- Selecione o arquivo e execute como "Cucumber feature"
+  - Selecione o arquivo e execute como "Cucumber feature"
