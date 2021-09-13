@@ -11,5 +11,5 @@
 
 Ou
 
-- Arquivo VehicleQuote.feature
+- Arquivo "VehicleQuote.feature"
   - Selecione o arquivo e execute como "Cucumber feature"
